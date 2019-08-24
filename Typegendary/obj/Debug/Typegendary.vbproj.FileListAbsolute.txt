@@ -1,0 +1,14 @@
+E:\Github\Typegendary\Typegendary\bin\Debug\Typegendary.exe.config
+E:\Github\Typegendary\Typegendary\bin\Debug\Typegendary.exe
+E:\Github\Typegendary\Typegendary\bin\Debug\Typegendary.pdb
+E:\Github\Typegendary\Typegendary\bin\Debug\Typegendary.xml
+E:\Github\Typegendary\Typegendary\bin\Debug\Typegendary_DLL.dll
+E:\Github\Typegendary\Typegendary\bin\Debug\Typegendary_DLL.pdb
+E:\Github\Typegendary\Typegendary\obj\Debug\Typegendary.vbprojAssemblyReference.cache
+E:\Github\Typegendary\Typegendary\obj\Debug\Typegendary.Resources.resources
+E:\Github\Typegendary\Typegendary\obj\Debug\Typegendary.vbproj.GenerateResource.cache
+E:\Github\Typegendary\Typegendary\obj\Debug\Typegendary.vbproj.CoreCompileInputs.cache
+E:\Github\Typegendary\Typegendary\obj\Debug\Typegendary.vbproj.CopyComplete
+E:\Github\Typegendary\Typegendary\obj\Debug\Typegendary.exe
+E:\Github\Typegendary\Typegendary\obj\Debug\Typegendary.xml
+E:\Github\Typegendary\Typegendary\obj\Debug\Typegendary.pdb

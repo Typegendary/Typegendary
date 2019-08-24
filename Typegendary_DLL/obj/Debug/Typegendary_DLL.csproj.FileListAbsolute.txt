@@ -1,0 +1,5 @@
+E:\Github\Typegendary\Typegendary_DLL\bin\Debug\Typegendary_DLL.dll
+E:\Github\Typegendary\Typegendary_DLL\bin\Debug\Typegendary_DLL.pdb
+E:\Github\Typegendary\Typegendary_DLL\obj\Debug\Typegendary_DLL.csproj.CoreCompileInputs.cache
+E:\Github\Typegendary\Typegendary_DLL\obj\Debug\Typegendary_DLL.dll
+E:\Github\Typegendary\Typegendary_DLL\obj\Debug\Typegendary_DLL.pdb
