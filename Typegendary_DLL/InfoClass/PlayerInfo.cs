@@ -6,31 +6,59 @@ using System.Threading.Tasks;
 
 namespace Typegendary2_Server.InfoClass
 {
-    public class PlayerInfo
+    /// <summary>
+    /// 角色属性
+    /// </summary>
+    partial class PlayerInfo
     {
+        // 角色属性
         /// <summary>
         /// 生命值
         /// </summary>
-        public int Life { get; private set; }
-        public void Life_Add(int value) => Life += value;
+        public int Life { get; private set; } = 100;
         /// <summary>
-        /// 防御力
+        /// 最大生命值
         /// </summary>
-        public int Equipment { get; private set; }
-        public void Equipment_Set(int value) => Equipment = value;
+        public int Life_Max { get; private set; } = 100;
         /// <summary>
-        /// 攻击力
+        /// 法力值
         /// </summary>
-        public int Arms { get; private set; }
-        public void Arms_Set(int value) => Arms = value;
+        public int Mana { get; private set; } = 0;
         /// <summary>
-        /// 携带的物品(*6)
+        /// 最大法力值
         /// </summary>
-        public int[] Goods { get; private set; } = new int[6];
-        public void Goods_Set(int index, int value) => Goods[index] = value;
-        //
-        //
-        //
+        public int Mana_Max { get; private set; } = 10;
+
+        // 物理攻击（近程）
+        /// <summary>
+        /// 物理防御力
+        /// </summary>
+        public int Ad_Defence { get; private set; }
+        /// <summary>
+        /// 物理攻击力
+        /// </summary>
+        public int Ad_Offence { get; private set; }
+        /// <summary>
+        /// 物理攻击距离
+        /// </summary>
+        public int Ad_Distance { get; private set; }
+
+        // 法术攻击（远程）
+        /// <summary>
+        /// 法术防御力
+        /// </summary>
+        public int Ap_Defence { get; private set; }
+        /// <summary>
+        /// 法术攻击力
+        /// </summary>
+        public int Ap_Offence { get; private set; }
+    }
+
+    /// <summary>
+    /// 调整属性值
+    /// </summary>
+    public partial class PlayerInfo
+    {
 
     }
 }
