@@ -117,13 +117,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Typegendary_DLL\Typegendary_DLL.csproj">
-      <Project>{0eb54f3c-e7e3-432b-8e34-d9d23a2b5b10}</Project>
-      <Name>Typegendary_DLL</Name>
-    </ProjectReference>
+    <Folder Include="GameForms\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="GameForms\" />
+    <ProjectReference Include="..\Typegendary_Classes\Typegendary_Classes.csproj">
+      <Project>{d1c31617-a326-47be-8bb3-890107e1e03a}</Project>
+      <Name>Typegendary_Classes</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

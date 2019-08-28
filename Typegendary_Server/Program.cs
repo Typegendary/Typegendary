@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Typegendary2_Server.InfoClass;
 
 namespace Typegendary_Server
 {
@@ -11,7 +6,8 @@ namespace Typegendary_Server
     {
         static void Main(string[] args)
         {
-            PlayerInfo playerInfo = new PlayerInfo();
+            Console.WriteLine("Hello World!");
+
         }
     }
 }

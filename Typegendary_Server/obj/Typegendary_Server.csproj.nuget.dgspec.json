@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\GitHub\\Typegendary\\Typegendary_Server\\Typegendary_Server.csproj": {}
+  },
+  "projects": {
+    "E:\\GitHub\\Typegendary\\Typegendary_Classes\\Typegendary_Classes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GitHub\\Typegendary\\Typegendary_Classes\\Typegendary_Classes.csproj",
+        "projectName": "Typegendary_Classes",
+        "projectPath": "E:\\GitHub\\Typegendary\\Typegendary_Classes\\Typegendary_Classes.csproj",
+        "packagesPath": "C:\\Users\\Zhou Tianxing\\.nuget\\packages\\",
+        "outputPath": "E:\\GitHub\\Typegendary\\Typegendary_Classes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Zhou Tianxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\..NET\\DLL\\ZTxLib.NETCore\\publish": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\GitHub\\Typegendary\\Typegendary_Server\\Typegendary_Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GitHub\\Typegendary\\Typegendary_Server\\Typegendary_Server.csproj",
+        "projectName": "Typegendary_Server",
+        "projectPath": "E:\\GitHub\\Typegendary\\Typegendary_Server\\Typegendary_Server.csproj",
+        "packagesPath": "C:\\Users\\Zhou Tianxing\\.nuget\\packages\\",
+        "outputPath": "E:\\GitHub\\Typegendary\\Typegendary_Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Zhou Tianxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\..NET\\DLL\\ZTxLib.NETCore\\publish": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "E:\\GitHub\\Typegendary\\Typegendary_Classes\\Typegendary_Classes.csproj": {
+                "projectPath": "E:\\GitHub\\Typegendary\\Typegendary_Classes\\Typegendary_Classes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

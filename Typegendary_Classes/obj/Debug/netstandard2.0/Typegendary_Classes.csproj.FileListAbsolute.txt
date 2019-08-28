@@ -1,0 +1,9 @@
+E:\GitHub\Typegendary\Typegendary_Classes\bin\Debug\netstandard2.0\Typegendary_Classes.deps.json
+E:\GitHub\Typegendary\Typegendary_Classes\bin\Debug\netstandard2.0\Typegendary_Classes.dll
+E:\GitHub\Typegendary\Typegendary_Classes\bin\Debug\netstandard2.0\Typegendary_Classes.pdb
+E:\GitHub\Typegendary\Typegendary_Classes\obj\Debug\netstandard2.0\Typegendary_Classes.csprojAssemblyReference.cache
+E:\GitHub\Typegendary\Typegendary_Classes\obj\Debug\netstandard2.0\Typegendary_Classes.csproj.CoreCompileInputs.cache
+E:\GitHub\Typegendary\Typegendary_Classes\obj\Debug\netstandard2.0\Typegendary_Classes.AssemblyInfoInputs.cache
+E:\GitHub\Typegendary\Typegendary_Classes\obj\Debug\netstandard2.0\Typegendary_Classes.AssemblyInfo.cs
+E:\GitHub\Typegendary\Typegendary_Classes\obj\Debug\netstandard2.0\Typegendary_Classes.dll
+E:\GitHub\Typegendary\Typegendary_Classes\obj\Debug\netstandard2.0\Typegendary_Classes.pdb
