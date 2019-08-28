@@ -1,4 +1,5 @@
 ﻿using System;
+using Typegendary_Classes.InfoClass;
 
 namespace Typegendary_Server
 {
@@ -7,7 +8,7 @@ namespace Typegendary_Server
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-
+            PlayerInfo player = new PlayerInfo();
         }
     }
 }

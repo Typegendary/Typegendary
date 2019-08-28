@@ -1,15 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Typegendary2_Server.InfoClass
+﻿namespace Typegendary_Classes
 {
     /// <summary>
     /// 角色属性
     /// </summary>
-    partial class PlayerInfo
+    internal class Player
     {
         // 角色属性
         /// <summary>
@@ -29,11 +23,11 @@ namespace Typegendary2_Server.InfoClass
         /// </summary>
         public int Mana_Max { get; private set; } = 10;
 
-        // 物理攻击（近程）
         /// <summary>
-        /// 物理防御力
+        /// 法术攻击力
         /// </summary>
-        public int Ad_Defence { get; private set; }
+        public int Ap_Offence { get; private set; }
+
         /// <summary>
         /// 物理攻击力
         /// </summary>
@@ -43,22 +37,6 @@ namespace Typegendary2_Server.InfoClass
         /// </summary>
         public int Ad_Distance { get; private set; }
 
-        // 法术攻击（远程）
-        /// <summary>
-        /// 法术防御力
-        /// </summary>
-        public int Ap_Defence { get; private set; }
-        /// <summary>
-        /// 法术攻击力
-        /// </summary>
-        public int Ap_Offence { get; private set; }
-    }
-
-    /// <summary>
-    /// 调整属性值
-    /// </summary>
-    public partial class PlayerInfo
-    {
 
     }
 }
