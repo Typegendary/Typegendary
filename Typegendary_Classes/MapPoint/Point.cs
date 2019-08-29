@@ -1,12 +1,16 @@
 ﻿namespace Typegendary_Classes.MapPoint
 {
-    internal class Point
+    public class Point
     {
+        internal const short 边长 = 20;
         public enum Type
         {
             Empty,
-            Weapon
+            //Weapon
         }
-        public Type type = Type.Empty;
+
+        public Type PointType { get; set; }
+
+        // Properties here
     }
 }

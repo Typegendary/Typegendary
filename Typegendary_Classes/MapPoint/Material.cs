@@ -9,6 +9,7 @@
 
             // To add
         }
+        public new Type PointType { get; set; }
 
         // Properties here
     }

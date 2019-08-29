@@ -6,3 +6,4 @@ E:\GitHub\Typegendary\Typegendary_Classes\obj\Debug\netstandard2.0\Typegendary_C
 E:\GitHub\Typegendary\Typegendary_Classes\obj\Debug\netstandard2.0\Typegendary_Classes.AssemblyInfo.cs
 E:\GitHub\Typegendary\Typegendary_Classes\obj\Debug\netstandard2.0\Typegendary_Classes.dll
 E:\GitHub\Typegendary\Typegendary_Classes\obj\Debug\netstandard2.0\Typegendary_Classes.pdb
+E:\GitHub\Typegendary\Typegendary_Classes\obj\Debug\netstandard2.0\Typegendary_Classes.csprojAssemblyReference.cache

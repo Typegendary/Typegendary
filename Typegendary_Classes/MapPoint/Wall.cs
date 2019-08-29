@@ -1,6 +1,6 @@
 ﻿namespace Typegendary_Classes.MapPoint
 {
-    internal class Wall : Point
+    public class Wall : Point
     {
         public new enum Type
         {
@@ -9,5 +9,8 @@
 
             // To add
         }
+        public new Type PointType { get; set; }
+
+        // Properties here
     }
 }

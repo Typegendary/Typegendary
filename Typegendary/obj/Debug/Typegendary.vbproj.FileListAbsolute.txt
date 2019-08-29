@@ -109,3 +109,4 @@ E:\GitHub\Typegendary\Typegendary\bin\Debug\Typegendary_Classes.dll
 E:\GitHub\Typegendary\Typegendary\bin\Debug\Typegendary_Classes.pdb
 E:\GitHub\Typegendary\Typegendary\obj\Debug\Typegendary.exe.config
 E:\GitHub\Typegendary\Typegendary\obj\Debug\Typegendary.vbproj.CopyComplete
+E:\GitHub\Typegendary\Typegendary\obj\Debug\Typegendary.Test.resources
