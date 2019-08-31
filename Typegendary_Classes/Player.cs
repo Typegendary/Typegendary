@@ -5,11 +5,13 @@
     /// </summary>
     public class Player
     {
+        //坐标&朝向
         public enum Directions { Left, Up, Right, Down }
         public Directions Direction { get; set; }
         public uint X { get; private set; }
         public uint Y { get; private set; }
 
+        //属性值
         /// <summary> 生命值 </summary>
         public int Life { get; private set; } = 100;
         /// <summary> 最大生命值 </summary>
@@ -25,6 +27,8 @@
         /// <summary> 物理攻击距离 </summary>
         public int Ad_Distance { get; private set; }
 
-        
+        //
+        byte[] id;//4byte ip + 4byte timestamp
+
     }
 }
