@@ -28,7 +28,30 @@
         public int Ad_Distance { get; private set; }
 
         //
-        byte[] id;//4byte ip + 4byte timestamp
+        public string ID { get; set; }
 
+        public override string ToString()
+        {
+            return "{" +
+                $"'Direction':'{(int)Direction}'" +
+                $"'X':'{X}'," +
+                $"'Y':'{Y}'," +
+                $"'Life':'{Life}'," +
+                $"'Life_Max':'{Life_Max}'," +
+                $"'Man':'{Mana}'," +
+                $"'Mana_Max':'{Mana_Max}'," +
+                $"'Ap_Offence':'{Ap_Offence}'," +
+                $"'Ad_Offence':'{Ad_Offence}'," +
+                $"'Ad_Distance':'{Ad_Distance}'" +
+                "}";
+        }
+
+        public Player() { }
+
+        public Player(string json)
+        {
+            string[] item = json.Split(',');
+            
+        }
     }
 }
