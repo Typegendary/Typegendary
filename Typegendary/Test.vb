@@ -2,8 +2,9 @@
 
 Public Class Test
     Sub Main()
-        Dim point As Point = New Wall
-        point.PointType = Wall.Type.Wall_0
+        Dim point As New Wall With {
+            .PointType = Wall.Type.Wall_0
+        }
 
 
 
@@ -11,5 +12,8 @@ Public Class Test
 
     End Sub
 
+    Private Sub Test_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        ColorDialog1.ShowDialog()
 
+    End Sub
 End Class
