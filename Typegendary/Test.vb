@@ -3,7 +3,7 @@
 Public Class Test
     Sub Main()
         Dim point As New Wall With {
-            .PointType = Wall.Type.Wall_0
+            .PointType = PointType.Wall_0
         }
 
 

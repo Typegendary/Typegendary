@@ -20,13 +20,13 @@ namespace Typegendary_Classes
                     switch (highDigit)
                     {
                         case 0xA:
-                            Points[i, j] = new Point() { PointType = (Point.Type)lowDigit };
+                            Points[i, j] = new Point() { PointType = (PointType)lowDigit };
                             break;
                         case 0xB:
-                            Points[i, j] = new Material { PointType = (Material.Type)lowDigit };
+                            Points[i, j] = new Material { PointType = (PointType)lowDigit };
                             break;
                         case 0xC:
-                            Points[i, j] = new Wall() { PointType = (Wall.Type)lowDigit };
+                            Points[i, j] = new Wall() { PointType = (PointType)lowDigit };
                             break;
                     }
                 }

@@ -4,7 +4,6 @@ E:\GitHub\Typegendary\Typegendary_Server\bin\Debug\netcoreapp2.1\Typegendary_Ser
 E:\GitHub\Typegendary\Typegendary_Server\bin\Debug\netcoreapp2.1\Typegendary_Server.dll
 E:\GitHub\Typegendary\Typegendary_Server\bin\Debug\netcoreapp2.1\Typegendary_Server.pdb
 E:\GitHub\Typegendary\Typegendary_Server\obj\Debug\netcoreapp2.1\Typegendary_Server.csprojAssemblyReference.cache
-E:\GitHub\Typegendary\Typegendary_Server\obj\Debug\netcoreapp2.1\Typegendary_Server.csproj.CoreCompileInputs.cache
 E:\GitHub\Typegendary\Typegendary_Server\obj\Debug\netcoreapp2.1\Typegendary_Server.AssemblyInfoInputs.cache
 E:\GitHub\Typegendary\Typegendary_Server\obj\Debug\netcoreapp2.1\Typegendary_Server.AssemblyInfo.cs
 E:\GitHub\Typegendary\Typegendary_Server\obj\Debug\netcoreapp2.1\Typegendary_Server.dll

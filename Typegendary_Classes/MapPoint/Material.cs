@@ -2,14 +2,7 @@
 {
     internal class Material : Point
     {
-        public new enum Type
-        {
-            Material_1,
-            Material_2,
-
-            // To add
-        }
-        public new Type PointType { get; set; }
+        public new PointType PointType { get; set; }
 
         // Properties here
     }
